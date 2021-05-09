@@ -1,0 +1,5 @@
+com\ST\patient\model\PatientAppointment.class
+com\ST\patient\model\ClinicCalender.class
+com\ST\patient\PatientManagementApp.class
+com\ST\patient\service\PatientService.class
+com\ST\patient\model\Doctor.class
